@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Audio-to-Video Generator</title>
+
 </head>
 <body>
 <h1>Audio-to-Video Generator</h1>
