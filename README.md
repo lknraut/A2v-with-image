@@ -25,7 +25,5 @@
 <li>Follow the on-screen prompts to select an audio file, an image file, and an output directory.</li>
 <li>Click the "Generate Video" button to create the video file.</li>
 </ol>
-<h2>License</h2>
-<p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
 </body>
 </html>
